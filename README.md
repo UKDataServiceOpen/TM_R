@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)]((https://mybinder.org/v2/gh/UKDataServiceOpen/TM_R/HEAD=T-M_Basic_Processing_R.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/TM_R/HEAD=T-M_Basic_Processing_R.ipynb)
 
 
 
